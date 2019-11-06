@@ -2,13 +2,16 @@
 
 ### Repository Contents
 
-src folder: 
+src/Dowloader.cc: Main downloader client, downloads data from the different servers and measure timing properties of the connections.
+src/Uploader.cc: Main uploader client, uploads data based on the implemented block replication policy.
+src/SurfStoreServer.cc: Handles direct block access functions to store and upload data.
 
-Project_Report.pdf: 
+Project_Report.pdf: Report summarizing experiment results.
 
-Collected_Experiment_Data.pdf: 
+Collected_Experiment_Data.pdf: Raw data collected later used for analysis.
 
-dependencies folder: 
+dependencies folder: Contains dependencies needed to build the project, as well as libraries used for diffferent functionlity (rpc calls, logging, sha encryption)
+
 
 ### Project Overview
 
