@@ -3,7 +3,9 @@
 ### Repository Contents
 
 src/Dowloader.cc: Main downloader client, downloads data from the different servers and measure timing properties of the connections.
+
 src/Uploader.cc: Main uploader client, uploads data based on the implemented block replication policy.
+
 src/SurfStoreServer.cc: Handles direct block access functions to store and upload data.
 
 Project_Report.pdf: Report summarizing experiment results.
