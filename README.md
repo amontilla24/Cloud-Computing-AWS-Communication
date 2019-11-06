@@ -1,5 +1,15 @@
 # Cloud Computing | Amazon Web Services (AWS) Communication
 
+### Repository Contents
+
+src folder: 
+
+Project_Report.pdf: 
+
+Collected_Experiment_Data.pdf: 
+
+dependencies folder: 
+
 ### Project Overview
 
 Amazon EC2 servers are set up with VMs in four different locations:
