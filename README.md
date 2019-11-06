@@ -1,6 +1,6 @@
 # Cloud Computing | Amazon Web Services (AWS) Communication
 
-## Project Overview
+### Project Overview
 
 Amazon EC2 servers are set up with VMs in four different locations:
 •	Seoul, Korea
