@@ -1,0 +1,7 @@
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/install/strip.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/edit_cache.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/rpc.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/install.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/rebuild_cache.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/list_install_components.dir
+/home/ec2-user/spatiam/example-cpp/Cloud-Computing-AWS-Communication/dependencies/src/rpclib/build/CMakeFiles/install/local.dir
